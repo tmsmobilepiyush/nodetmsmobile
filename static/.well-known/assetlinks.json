@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.manh.tms.mobile",
+         "sha256_cert_fingerprints":[
+            "78:FE:6B:C5:7D:9E:3E:62:5B:E6:D8:46:C8:BE:2A:5D:B1:25:8F:E3:E3:7A:B6:E5:D0:30:74:E8:64:B5:30:DC"
+         ]
+      }
+   }
+]
