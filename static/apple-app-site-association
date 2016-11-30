@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "L5RUNU69B9.com.manh.tms.mobile",
+                "paths": [ "/tmsmobile/*"]
+            }
+        ]
+    }
+}
