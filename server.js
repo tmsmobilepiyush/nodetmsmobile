@@ -23,7 +23,7 @@ function initializeServer() {
     });
 	
 	var server = http.createServer(app);
-	server.listen(env.NODE_PORT || 3000, env.NODE_IP || 'localhost', function () {
+	server.listen(env.PORT || 8080, function () {
 	  console.log('Application worker ${process.pid} started...');
 	});
     server.on('close', function() {
